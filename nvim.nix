@@ -47,7 +47,7 @@ in
     luafile ${path}/lua/user/treesitter.lua
     luafile ${path}/lua/user/autopairs.lua
     luafile ${path}/lua/user/comment.lua
-    luafile ${path}/lua/user/gigtsigns.lua
+    luafile ${path}/lua/user/gittsigns.lua
     luafile ${path}/lua/user/nvim-tree.lua
     luafile ${path}/lua/user/bufferline.lua
     luafile ${path}/lua/user/lualine.lua
