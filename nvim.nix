@@ -43,7 +43,6 @@ in
     luafile ${path}/lua/user/keymaps.lua
     luafile ${path}/lua/user/colorscheme.lua
     luafile ${path}/lua/user/cmp.lua
-    luafile ${path}/lua/user/lsp.lua
     luafile ${path}/lua/user/telescope.lua
     luafile ${path}/lua/user/treesitter.lua
     luafile ${path}/lua/user/autopairs.lua
