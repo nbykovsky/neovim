@@ -58,7 +58,7 @@ in
     luafile ${path}/lua/user/dap.lua
     luafile ${path}/lua/user/whichkey.lua
     luafile ${path}/lua/user/autocommands.lua
-    luafile ${path}/lua/user/lsp
+    luafile ${path}/lua/user/lsp/init.lua
   '';
 
   plugins = with pkgs.vimPlugins; [
