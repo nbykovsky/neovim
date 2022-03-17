@@ -5,7 +5,7 @@ if not status_ok then
 end
 print("lspconfig is loaded")
 
-require'lspconfig'.rust_alalyzer.setup{}
+require'lspconfig'.rust_analyzer.setup{}
 --require "user.lsp.lsp-installer"
 --require("user.lsp.handlers").setup()
 --require "user.lsp.null-ls"
